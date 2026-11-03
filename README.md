@@ -93,7 +93,7 @@ Instalar previamente:
 # 🚀 Clonar Proyecto
 
 ```bash
-git clone https://github.com/arthubstudio/ollamaGanaderia.git
+git clone https://github.com/Tu-Amig0/OllamaGanaderia.git
 
 cd Ganaderia_AI/app
 ```
